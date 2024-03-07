@@ -1,0 +1,85 @@
+.like{
+   position: relative;
+
+   left: 230px;
+   top:160px;
+  }
+
+
+body{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  .submit{
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+    border: 1px solid black;
+  }
+  
+  .like {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .col-md-6 {
+    width: 80%; 
+  }
+  
+  .form-control {
+    border-radius: 20px; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    width: 300px;
+    border: 1px solid black;
+  }
+  
+  .btn-primary {
+    border-radius: 10px; 
+    padding: 10px 20px; 
+  }
+
+ 
+.background-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
